@@ -3,6 +3,7 @@ Hello everyone, I welcome you.
 This is my personal project. I made this just to please my mind, need less to say that nobody should
 make a clock like this in the real life for their project, this is a highly impractical model.
 
+You will need Logisim to run this circuit.
 
 I used negative edge triggerd T flip-flops to make MOD counters and then used these asynchronously 
 with some gates to make a digital clock circuit. 
